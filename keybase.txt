@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/dadarkwizard
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://dadarkwizard.github.io
+  * I am dadarkwizard (https://keybase.io/dadarkwizard) on keybase.
+  * I have a public key ASA08-72IJ0LUBqBaN-28exKWAf7dNmsfbM1UDw29AQRqAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120c99e9a49a602858e64a74b0cffe63bc88a2955baa5b759a34dfce4d8c402d1000a",
+      "host": "keybase.io",
+      "kid": "012034f3eef6209d0b501a8168dfb6f1ec4a5807fb74d9ac7db335503c36f40411a80a",
+      "uid": "31c7ed0b59e64f68e2e7fa20f0278019",
+      "username": "dadarkwizard"
+    },
+    "merkle_root": {
+      "ctime": 1589506276,
+      "hash": "9957027532ce445ae8c4c723eb912ae1ac5fffea1585c3c3b53e65d09a9a3345f23fa7411733dd73fd2e8b1af8d431309c2bb6b1057367960284bbfe2ab02f01",
+      "hash_meta": "2282f55f00ae5ac413610184efe9a270939360ca001f1d1cf53e92fc73a1e296",
+      "seqno": 16301199
+    },
+    "service": {
+      "entropy": "TXqxWseXMgc9nf6e66HLSMEF",
+      "hostname": "dadarkwizard.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.4.2"
+  },
+  "ctime": 1589506288,
+  "expire_in": 504576000,
+  "prev": "cb043ef10277cf17a2c5b434e90f645ddbb32fee956f198f2f9d45c23b74b6b5",
+  "seqno": 20,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgNPPu9iCdC1AagWjftvHsSlgH+3TZrH2zNVA8NvQEEagKp3BheWxvYWTESpcCFMQgywQ+8QJ3zxeixbQ06Q9kXduzL+6VbxmPL51Fwjt0trXEINspBxAzzH85CButaU48/a5DAeGrM+y/tgs1MqazSs+CAgHCo3NpZ8RAqlFhGnT7WZo6LXtFbAKnLB/6qXUPHLLhpnTPRJb0D8G4Xv3TzwgORtArR3l0svg9PqwOF6REhRecW5+Rr4lFDahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGKU44uVZHJtbq67mfICcKo0667vD0R4zgG4mei1ehrCo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/dadarkwizard
+
+==================================================================
